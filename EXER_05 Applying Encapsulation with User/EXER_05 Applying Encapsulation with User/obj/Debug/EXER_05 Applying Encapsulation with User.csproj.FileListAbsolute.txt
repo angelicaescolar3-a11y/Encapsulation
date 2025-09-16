@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\bin\Debug\EXER_05 Applying Encapsulation with User.exe.config
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\bin\Debug\EXER_05 Applying Encapsulation with User.exe
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\bin\Debug\EXER_05 Applying Encapsulation with User.pdb
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\obj\Debug\EXER_05 Applying Encapsulation with User.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\obj\Debug\EXER_05 Applying Encapsulation with User.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\obj\Debug\EXER_05 Applying Encapsulation with User.exe
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\obj\Debug\EXER_05 Applying Encapsulation with User.pdb
+C:\Users\ACT-STUDENT\Desktop\Escolar5\EXER_05 Applying Encapsulation with User\EXER_05 Applying Encapsulation with User\obj\Debug\EXER_05 Applying Encapsulation with User.exe.config
